@@ -28,7 +28,7 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -43,12 +43,12 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  INSPIRE: https://inspirehep.net/authors/1716525
   # youtube: your_username
 
 topics:
 
-- name: inspireHEP
+- name: INSPIRE
   web_url: https://inspirehep.net
   image_url: https://pbs.twimg.com/profile_images/1234490198618185730/YDsnDGEQ_400x400.jpg
 #   - name: CSS
