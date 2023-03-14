@@ -49,7 +49,7 @@ projects:
 topics:
 
 - name:inspireHEP
-  web_url: https://inspirehep.net/
+  web_url: https://inspirehep.net
   image_url: https://pbs.twimg.com/media/EPUOJ09XkAARxcH?format=png&name=large
 #   - name: CSS
 #     web_url: https://github.com/topics/css
