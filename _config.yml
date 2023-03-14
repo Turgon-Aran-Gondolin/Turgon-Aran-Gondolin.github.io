@@ -48,7 +48,7 @@ projects:
 
 topics:
 
-- name:inspireHEP
+- name: inspireHEP
   web_url: https://inspirehep.net
   image_url: https://pbs.twimg.com/media/EPUOJ09XkAARxcH?format=png&name=large
 #   - name: CSS
@@ -57,7 +57,7 @@ topics:
 
 #   - name: Web design
 - name: MCFM
-  web_URL: https://mcfm.fnal.gov/
+  web_url: https://mcfm.fnal.gov
 
 #   - name: Sass
 #     web_url: https://github.com/topics/sass
